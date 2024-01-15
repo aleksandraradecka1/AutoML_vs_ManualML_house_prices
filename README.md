@@ -1,6 +1,6 @@
 ## Estimating house 🏠 prices 💸 in Iowa's (USA) Ames residential area
 
-![](image/ldb_performance.png)
+![](image/ldb_performance_cropped_to_content.jpg)
 
 #### Goal: 
 to compare AutoML (prepared using MLjar) and manual ML (completed using Scikit-learn) approaches to house prices estimation; with the focus on functionality, not finding the most accurate algoritm 
