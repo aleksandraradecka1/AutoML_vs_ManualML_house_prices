@@ -3,7 +3,7 @@
 ![](image/ldb_performance_cropped_to_content.jpg)
 
 #### Goal: 
-to compare AutoML (prepared using MLjar) and manual ML (completed using Scikit-learn) approaches to house prices estimation; with the focus on functionality, not finding the most accurate algoritm 
+to compare AutoML (prepared using MLjar) and manual ML (completed using Scikit-learn) approaches to house prices estimation; with the focus on functionality, not finding the most accurate algorithm 
 
 #### Data:
 Ames house features and prices, originally prepared by Dean De Cock, later modified by Kaggle. Data are accessible at: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
